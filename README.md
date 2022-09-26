@@ -154,7 +154,7 @@ exerciseRoutine(() => {
 
 // Or even shorter:
 exerciseRoutine(() => console.log("Stretch! Work that core!"));
-```
+```  
 
 Because we only need to use our function this one time, there's no need to give
 it a name or assign it to a variable. Instead, we define it inline as an
